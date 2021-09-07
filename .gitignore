@@ -53,3 +53,4 @@ nbdist/
 .nb-gradle/
 
 # End of https://www.toptal.com/developers/gitignore/api/netbeans,java,linux
+nbproject/
